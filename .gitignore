@@ -1,0 +1,4 @@
+# See https://help.github.com/ignore-files/ for more about ignore files.
+
+#dependecies
+/node_modules
